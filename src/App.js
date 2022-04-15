@@ -46,5 +46,5 @@ function App() {
     </div>)
 
 };
-// atualizando o projeto!
+
 export default App;
